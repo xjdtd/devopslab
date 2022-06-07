@@ -1,6 +1,6 @@
 export GITACCOUNT=xjdtd
 
-export MYCLUSTER=
+export MYCLUSTER=kubernetes
 export KUBECONFIG=/root/.kube/config
 
 export NAMESPACE=default
