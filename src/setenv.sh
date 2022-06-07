@@ -1,8 +1,8 @@
-export GITACCOUNT=
+export GITACCOUNT=xjdtd
 
 export MYCLUSTER=
-export KUBECONFIG=
+export KUBECONFIG=/root/.kube/config
 
-export NAMESPACE=
-export EMAIL=
+export NAMESPACE=default
+export EMAIL=xjdtd@163.com
 export INGRESS=
